@@ -1,0 +1,48 @@
+{
+  "date_range": "January, 2016 through December, 2016",
+  "chart_data": [{
+    "description": "January",
+    "value": 6347
+  }, {
+    "description": "February",
+    "value": 6502
+  }, {
+    "description": "March",
+    "value": 7805
+  }, {
+    "description": "April",
+    "value": 6500
+  }, {
+    "description": "May",
+    "value": 5600
+  }, {
+    "description": "June",
+    "value": 5400
+  }, {
+    "description": "July",
+    "value": 5943
+  }, {
+    "description": "August",
+    "value": 5648
+  }, {
+    "description": "September",
+    "value": 5739
+  }, {
+    "description": "October",
+    "value": 5928
+  }, {
+    "description": "November",
+    "value": 6738
+  }, {
+    "description": "December",
+    "value": 7731
+  }],
+  "insights": [
+    "Approaching 3rd highest monthly spending",
+    "Saved $1,972 over the last year"
+  ],
+  "actions": [
+    "Review your upcoming expenses",
+    "Review your Save Robot Save Account"
+  ]
+}

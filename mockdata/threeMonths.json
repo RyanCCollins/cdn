@@ -1,0 +1,24 @@
+{
+  "date_range": "September, 2016 through December, 2016",
+  "chart_data": [{
+    "description": "September",
+    "value": 1000
+  }, {
+    "description": "October",
+    "value": 500
+  }, {
+    "description": "November",
+    "value": 430
+  }, {
+    "description": "December",
+    "value": 400
+  }],
+  "insights": [
+    "Approaching 3rd highest monthly spending",
+    "Saved $1,972 over the last year"
+  ],
+  "actions": [
+    "Review your upcoming expenses",
+    "Review your Save Robot Save Account"
+  ]
+}
