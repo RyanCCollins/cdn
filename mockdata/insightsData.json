@@ -1,0 +1,131 @@
+[{
+  "type": "bar",
+  "date_range": "September, 2016 through December, 2016",
+  "chart_data": [{
+    "description": "September 1, 2016",
+    "value": 1000
+  }, {
+    "description": "September 2, 2016",
+    "value": 182
+  }, {
+    "value": 71,
+    "description": "September 3, 2016"
+  }, {
+    "value": 37,
+    "description": "September 4, 2016"
+  }, {
+    "value": 293,
+    "description": "September 5, 2016"
+  }, {
+    "value": 462,
+    "description": "September 6, 2016"
+  }, {
+    "value": 235,
+    "description": "September 7, 2016"
+  }, {
+    "value": 23,
+    "description": "September 8, 2016"
+  }, {
+    "value": 333,
+    "description": "September 9, 2016"
+  }, {
+    "value": 111,
+    "description": "September 10, 2016"
+  }, {
+    "value": 324,
+    "description": "September 11, 2016"
+  }, {
+    "value": 471,
+    "description": "September 12, 2016"
+  }, {
+    "value": 35,
+    "description": "September 13, 2016"
+  }, {
+    "value": 282,
+    "description": "September 14, 2016"
+  }, {
+    "value": 332,
+    "description": "September 15, 2016"
+  }, {
+    "value": 451,
+    "description": "September 16, 2016"
+  }, {
+    "value": 114,
+    "description": "September 17, 2016"
+  }, {
+    "value": 441,
+    "description": "September 18, 2016"
+  }, {
+    "value": 211,
+    "description": "September 19, 2016"
+  }, {
+    "value": 435,
+    "description": "September 20, 2016"
+  }, {
+    "value": 152,
+    "description": "September 21, 2016"
+  }, {
+    "value": 461,
+    "description": "September 22, 2016"
+  }, {
+    "value": 285,
+    "description": "September 23, 2016"
+  }, {
+    "value": 152,
+    "description": "September 24, 2016"
+  }, {
+    "value": 342,
+    "description": "September 25, 2016"
+  }, {
+    "value": 523,
+    "description": "September 26, 2016"
+  }, {
+    "value": 123,
+    "description": "September 27, 2016"
+  }, {
+    "value": 432,
+    "description": "September 28, 2016"
+  }, {
+    "value": 224,
+    "description": "September 29, 2016"
+  }, {
+    "value": 254,
+    "description": "September 30, 2016"
+  }],
+  "insights": [
+    "Approaching 3rd highest monthly spending",
+    "Saved $1,972 over the last year"
+  ],
+  "actions": [
+    "Review your upcoming expenses",
+    "Review your Save Robot Save Account"
+  ]
+}, {
+  "type": "pie",
+  "date_range": "September, 2016 through December, 2016",
+  "top_categories": [{
+    "description": "Rent",
+    "value": 1000,
+    "percent": 33.08
+  }, {
+    "description": "Car",
+    "value": 500,
+    "percent": 16.54
+  }, {
+    "description": "Credit Cards",
+    "value": 430,
+    "percent": 14.22
+  }, {
+    "description": "Entertainment",
+    "value": 400,
+    "percent": 13.23
+  }, {
+    "description": "Other",
+    "value": 373,
+    "percent": 12.34
+  }],
+  "insights": [
+    "Rent payments is 33% of your spending",
+    "Car payments is 18% of your spending"
+  ]
+}]
