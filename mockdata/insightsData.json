@@ -103,7 +103,7 @@
 }, {
   "type": "pie",
   "date_range": "September, 2016 through December, 2016",
-  "top_categories": [{
+  "chart_data": [{
     "description": "Rent",
     "value": 1000,
     "percent": 33.08
