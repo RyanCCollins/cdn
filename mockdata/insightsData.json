@@ -106,11 +106,11 @@
 		"type": "pie",
 		"date_range": "September, 2016 through December, 2016",
 		"chart_data": [{
-			"description": "Rent",
+			"description": "Rent Payments",
 			"value": 1000,
 			"percent": 33.08
 		}, {
-			"description": "Car",
+			"description": "Car Payments",
 			"value": 500,
 			"percent": 16.54
 		}, {
@@ -118,7 +118,7 @@
 			"value": 430,
 			"percent": 14.22
 		}, {
-			"description": "Entertainment",
+			"description": "Ent.",
 			"value": 400,
 			"percent": 13.23
 		}, {
